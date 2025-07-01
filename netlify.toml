@@ -2,3 +2,8 @@
 [build]
   command = "npm run build"
   publish = "_site"
+
+[[redirects]]
+  from = "/mail"
+  to = "https://mail.zoho.eu/"
+  status = 200
