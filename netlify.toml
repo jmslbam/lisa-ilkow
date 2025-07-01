@@ -5,6 +5,6 @@
 
 [[redirects]]
   from = "/mail"
-  to = "https://mail.zoho.eu"
+  to = "https://accounts.zoho.eu/signin?serviceurl=https://mail.zoho.eu"
   status = 301
   force = true
