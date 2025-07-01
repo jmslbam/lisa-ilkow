@@ -6,5 +6,5 @@
 [[redirects]]
   from = "/mail"
   to = "https://mail.zoho.eu"
-  status = 200
+  status = 301
   force = true
